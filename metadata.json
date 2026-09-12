@@ -1,0 +1,6 @@
+{
+  "name": "AlgoAI OS",
+  "description": "Smart DSA Learning platform powered by specialized AI agents, interactive visualizers, coding labs, and adaptive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
